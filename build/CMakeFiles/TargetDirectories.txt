@@ -1,0 +1,4 @@
+C:/Users/Дмитрий/Мои документы/prog/cmake try/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Дмитрий/Мои документы/prog/cmake try/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Дмитрий/Мои документы/prog/cmake try/build/lib/CMakeFiles/fun.dir
+C:/Users/Дмитрий/Мои документы/prog/cmake try/build/main/CMakeFiles/task_3.dir
